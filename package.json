@@ -1,0 +1,13 @@
+{
+  "name": "arvaland-ai",
+  "version": "1.0.0",
+  "description": "ArvaLand AI Assistant 24/7 service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pdfkit": "^0.19.1"
+  }
+}
